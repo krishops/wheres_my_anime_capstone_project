@@ -6,3 +6,4 @@
 * 9:00 - Refresh using Devise for authentication
 * 9:15 - Research and test APIs
 * 10:30 - Research how to query GraphQL in Ruby
+* 11:30 - Research and test Jikan API
