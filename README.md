@@ -10,3 +10,4 @@
 * 1:15 - Start coding application (left for lunch at 12:10)
 * 2:10 - Update to-do and make final work list
 * 2:45 - Research APIs to query streaming services
+* 4:00 - Attempt implementation of API
