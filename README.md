@@ -5,3 +5,4 @@
 * 8:35 - Refresh calling APIs in Ruby
 * 9:00 - Refresh using Devise for authentication
 * 9:15 - Research and test APIs
+* 10:30 - Research how to query GraphQL in Ruby
