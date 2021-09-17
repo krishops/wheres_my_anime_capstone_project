@@ -8,3 +8,5 @@
 * 10:30 - Research how to query GraphQL in Ruby
 * 11:30 - Research and test Jikan API
 * 1:15 - Start coding application (left for lunch at 12:10)
+* 2:10 - Update to-do and make final work list
+* 2:45 - Research APIs to query streaming services
