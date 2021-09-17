@@ -7,3 +7,4 @@
 * 9:15 - Research and test APIs
 * 10:30 - Research how to query GraphQL in Ruby
 * 11:30 - Research and test Jikan API
+* 1:15 - Start coding application (left for lunch at 12:10)
