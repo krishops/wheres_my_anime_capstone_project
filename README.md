@@ -4,3 +4,4 @@
 * 8:10 - Make to-do list and prioritize
 * 8:35 - Refresh calling APIs in Ruby
 * 9:00 - Refresh using Devise for authentication
+* 9:15 - Research and test APIs
